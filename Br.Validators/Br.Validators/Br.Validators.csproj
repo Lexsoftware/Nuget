@@ -3,6 +3,19 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Br.Validators</PackageId>
+    <Version>3.1.0</Version>
+    <Authors>Alex Viana</Authors>
+    <Company>Lexsoft</Company>
+    <Description>
+      Validação de campos no padrão Brasil
+    </Description>
+    <PackageTags>
+      CPF; CNPJ; Validadores
+    </PackageTags>
+    <RepositoryUrl>https://github.com/Lexsoftware/Nuget/tree/master/Br.Validators</RepositoryUrl>
+    <PackageLicenseUrl>https://licenses.nuget.org/Apache-2.0</PackageLicenseUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
 </Project>
