@@ -13,7 +13,7 @@
     <PackageTags>
       CPF; CNPJ; Validadores
     </PackageTags>
-    <RepositoryUrl>https://github.com/Lexsoftware/Nuget/tree/master/Br.Validators</RepositoryUrl>
+    <RepositoryUrl>https://github.com/Lexsoftware/Nuget/tree/release/6.0.0/Br.Validators</RepositoryUrl>
     <PackageLicenseUrl>https://licenses.nuget.org/MIT</PackageLicenseUrl>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
   </PropertyGroup>
