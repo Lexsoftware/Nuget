@@ -1,5 +1,5 @@
 
 */.vs/
-*/*/bin
-*/*/obj
-Br.Validators/Br.Validators/Properties/PublishProfiles/FolderProfile.*
+*/*/*/bin
+*/*/*/obj
+Br.Validators/src/Br.Validators/Properties/PublishProfiles/FolderProfile.*

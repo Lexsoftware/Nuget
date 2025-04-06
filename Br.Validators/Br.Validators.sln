@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Br.Validators", "Br.Validators\Br.Validators.csproj", "{BE71D26F-5061-4334-B201-773F883918C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Br.Validators", "src\Br.Validators\Br.Validators.csproj", "{BE71D26F-5061-4334-B201-773F883918C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
